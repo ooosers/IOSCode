@@ -3,16 +3,16 @@ This is an application developed in iOS with swift.
 
 
 # Version 1.0 Create Multiple Views and Navigations
-⁃	   * 1.1. Create a simple navigator guide views.  — Done
-⁃	         Demonstrate: 1) Using the BWWalkthrough library 
-⁃	   1.2. Create a main Map views. 
-⁃	      * 1.2.1. Having “Adding post” button on navigation bar. — Done.
-⁃	      * 1.2.2. Having Map. — Done.
-⁃	       1.2.3. Can display the posts around you within certain miles and region.
-⁃	       Demonstrate: 1) Using the LocationManager library 
-⁃	   1.3. Create a Login view
-⁃	      * 1.3.1. Having “user name or email” input.
-⁃	      * 1.3.2. Having “Password” input.
+1.1. Create a simple navigator guide views.  — Done
+         Demonstrate: 1) Using the BWWalkthrough library 
+1.2. Create a main Map views. 
+* 1.2.1. Having “Adding post” button on navigation bar. — Done.
+* 1.2.2. Having Map. — Done.
+1.2.3. Can display the posts around you within certain miles and region.
+Demonstrate: 1) Using the LocationManager library 
+1.3. Create a Login view
+* 1.3.1. Having “user name or email” input.
+* 1.3.2. Having “Password” input.
 ⁃	      * 1.3.3. Having a “Login” button.
 ⁃	   * 1.4. Create a simple Splash view (Screen) and an icon — Done
 ⁃	   1.5. Create a post view (Screen)
